@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title> Landing Page Arquitetura </title>
+</head>
+<body>
+    <!-- Menu Superior -->
+    <div id="menusuperior">
+        <h1 id="titulo-menusuperior">
+            Tradição em projetos de arquitetura
+        </h1>
+        <p id="texto-menusuperior">
+            Arquitetura residencial e comercial. 
+        </p>
+    </div>
+    <!-- Histórico da empresa -->
+    <div id="historico">
+        <h1 class="numeros">
+            <strong>850</strong><br>
+            <p class="texto-numeros">empreendimentos construídos</p>
+        </h1>
+        <h1 class="numeros">
+            <strong>40</strong><br>
+            <p class="texto-numeros">anos de mercado e experiência</p>
+        </h1>
+        <h1 class="numeros">
+            <strong>2,000,000</strong><br>
+            <p class="texto-numeros">m² em projetos construídos</p>
+        </h1>
+    </div>
+    <!-- Texto Informativo -->
+    <div id="informativo">
+        <h1 id="titulo-principal">
+            Arquitetos com História e Experiência. <br><br>
+            <p id="texto-principal">
+                Nós realizamos desde 2002 projetos e gerenciamento de obras. <br>            
+                Com mais de 800 projetos e 2.000.000 de m² construídos, tendo <br>
+                como principal proposta transformar em realidade os sonhos de <br>
+                seus clientes, criando projetos personalizados, unindo a tradição <br>
+                e a modernidade em nossos projetos.
+            </p>
+        </h1>
+        <img id="setaesq" onclick="RolarParaEsquerda()" src="./imagens/setaesq.svg" alt="error">
+        <img id="fotoUm" src="./imagens/foto.svg" alt="error">
+        <img id="fotoDois" src="./imagens/foto2.png" alt="error">
+        <img id="setadir" onclick="RolarParaDireita()" src="./imagens/setadir.svg" alt="error">
+    </div>
+    <!-- Formulário -->
+    <div id="formulario">
+        <h1 id="titulo-formulario">Conheça mais sobre nossos serviços:</h1>
+        <form action="https://api.sheetmonkey.io/form/xjSvY8ZmmPZo2GR9QiDznR" method="post">
+            <input type="text" name="Nome" required placeholder="Nome">
+            <input type="email" name="Email" required placeholder="E-mail">
+            <input type="hidden" name="Data" value="x-sheetmonkey-current-date-time"/>
+            <button id="clique" onclick="mensagemconclusao()" type="submit">Fale conosco</button>
+        </form>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
