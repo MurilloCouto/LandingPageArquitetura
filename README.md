@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="(https://github.com/MurilloCouto/LandingPageArquitetura)" target="_blank">
-		<img src="FOTOOO INTROOO" alt="IntroImage" width="50%"/>
+		<img src="IMGintroLParquitetura.png" alt="IntroImage" width="50%"/>
 	</a>
 </div>
 
