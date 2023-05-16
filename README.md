@@ -9,7 +9,7 @@
 </div>
 
 ### Links para correção do instrutor:
-Link do site disponibilizado: https://desafio-arquitetura-dnc.netlify.app/
+Link do site disponibilizado: https://desafio-arquitetura-dnc.netlify.app/ <br>
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1x716Xnng55hAmFaH25B_ahjgOkg6OJ014UXlSbztw-Q/edit#gid=0
 
 ### O que é? 🤔
