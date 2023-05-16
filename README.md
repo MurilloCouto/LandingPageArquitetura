@@ -8,6 +8,10 @@
 	<h1>Site de uma empresa de arquitetura fictícia para captação de possíveis novos clientes</h1>
 </div>
 
+### Links para correção do instrutor:
+Link do site disponibilizado: https://desafio-arquitetura-dnc.netlify.app/
+Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1x716Xnng55hAmFaH25B_ahjgOkg6OJ014UXlSbztw-Q/edit#gid=0
+
 ### O que é? 🤔
 Site de captura de possíveis novos clientes para uma empresa de arquitetura, foi utilizado html, css e javascript, integrados ao Google Sheets o qual armazena em uma planilha os e-mails de clientes para um contato posterior por parte da empresa.
 <hr>
