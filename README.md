@@ -19,7 +19,7 @@ Site de captura de possíveis novos clientes para uma empresa de arquitetura, fo
 <hr>
 
 ### Está online? 📡
-SIM! Basta [clicar aqui](--------------------) para visualizar o site que está hospedado nos servidores da Netlify.
+SIM! Basta [clicar aqui](https://desafio-arquitetura-dnc.netlify.app/) para visualizar o site que está hospedado nos servidores da Netlify.
 <hr>
 
 by Murillo Couto<br>
